@@ -27,8 +27,12 @@ Before moving to Germany, I spent 2 years as a Machine Learning Researcher at th
 
 <p style="text-align:justify">I am an alumnus of the <b>Indian Institute of Technology Madras</b> (IITM), having graduated in 2015 with a dual degree in Transportation Engineering. For my thesis at IITM, I explored the applications of machine learning on traffic data and travel time prediction.</p>
 
+---
+
 <b>Research Interests:</b> <br>
 Deep Learning, Natural Language Processing, Attention Based Models, Uncertainty in Decision Making
+
+---
 
 You can get in touch with me via email: [firstname][lastname][at]gmail[dot]com
 
